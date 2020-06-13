@@ -24,6 +24,7 @@
         }
     ],
     "dependencies": {
+        "node-red-dashboard":"2.x",
         "ajv": "6.12.0",
         "basic-auth": "2.0.1",
         "bcryptjs": "2.4.3",
